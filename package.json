@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "kff2017-ticket",
+  "description": "kff2017 tickets converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^1.2.1"
+  }
+}
